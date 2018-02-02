@@ -1,4 +1,4 @@
-### Introduction
+﻿### Introduction
 In this project, you'll get a chance to rebuild the form used by [Mint.com](http://www.mint.com) for signing up new users.  They have been highly praised for the design and simplicity of their site, and their signup process is very clean.
 
 The page is very straightforward, so you should be able to clone it even if your CSS skills aren't perfect.  As usual, don't worry about any of the dynamic functionality on the page or finding the specific icons they use or having the form actually submit.  The point is to make it *look* like the real page as much as you reasonably can.
@@ -19,7 +19,7 @@ The page is very straightforward, so you should be able to clone it even if your
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it by using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  See the [Google Homepage project](/courses/web-development-101/lessons/html-css) for examples.
 
 * Add your solution below this line!
-
+* [Shivang's solution](https://github.com/shivang121996/html_forms/blob/master/index.html) - [Live](https://shivang121996.github.io/html_forms/blob/master/index.html/)
 * [theghall's solution](https://github.com/theghall/odin-mint) - [Live](https://theghall.github.io/odin-mint/)
 * [Jeremy-D's solution](https://github.com/Jeremy-D/Mint-form) - [Live](https://jeremy-d.github.io/Mint-form/)
 * [Jmooree30's solution](https://github.com/jmooree30/mint-signup-clone) - [Live](https://jmooree30.github.io/mint-signup-clone/)
